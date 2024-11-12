@@ -108,7 +108,16 @@ By focusing on **Medium size, Red color, and Wood material**, Brand X can enhanc
 2. **Promotional Types**:
    - **20% Off Promotion**: Highly effective for **returning customers**, who spend an average of **$256.66** under this promotion. Offering a discount encourages repeat purchases, making it a valuable tool for customer retention.
    - **Flash Sales**: Engages **new customers** with an average purchase value of **$255.15**. Flash sales create urgency and are effective for attracting new buyers looking for quick deals.
-   
+
+![image](https://github.com/user-attachments/assets/fb2cfd27-46c9-4a9c-8286-0cd6b5264552)
+![image](https://github.com/user-attachments/assets/f6398cc5-7758-4c0e-9d6e-f236db6ef4c1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb2cfd27-46c9-4a9c-8286-0cd6b5264552" alt="Chart 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/f6398cc5-7758-4c0e-9d6e-f236db6ef4c1" alt="Chart 2" width="45%">
+</p>
+
+
+
    **Recommendation**: For the new product launch, Brand X should use **in-store promotions** and the **20% Off discount** to drive spending among returning customers, while leveraging **social media** and **flash sales** to attract and convert new customers.
 
 ### 5. High-Value Customer Segments for Brand X's Electronics
