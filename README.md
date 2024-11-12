@@ -109,8 +109,6 @@ By focusing on **Medium size, Red color, and Wood material**, Brand X can enhanc
    - **20% Off Promotion**: Highly effective for **returning customers**, who spend an average of **$256.66** under this promotion. Offering a discount encourages repeat purchases, making it a valuable tool for customer retention.
    - **Flash Sales**: Engages **new customers** with an average purchase value of **$255.15**. Flash sales create urgency and are effective for attracting new buyers looking for quick deals.
 
-![image](https://github.com/user-attachments/assets/fb2cfd27-46c9-4a9c-8286-0cd6b5264552)
-![image](https://github.com/user-attachments/assets/f6398cc5-7758-4c0e-9d6e-f236db6ef4c1)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fb2cfd27-46c9-4a9c-8286-0cd6b5264552" alt="Chart 1" width="45%">
   <img src="https://github.com/user-attachments/assets/f6398cc5-7758-4c0e-9d6e-f236db6ef4c1" alt="Chart 2" width="45%">
