@@ -64,6 +64,8 @@ This project seeks to answer the following key business questions:
    - Wood accounts for **25.2% of total sales** and draws **8.3 million reviews** with a steady rating. Consumers appreciate Wood, likely for its quality or look.
    - **Recommendation**: Consider Wood as a preferred material for new products.
 
+![image](https://github.com/user-attachments/assets/fe6b8969-7936-4de3-a985-feb1edabbfec)
+
 By focusing on **Medium size, Red color, and Wood material**, Brand X can enhance product appeal and better meet consumer expectations.
 
 ### 2. Top-Selling Products with Consistent Growth for Brand X's Electronics
